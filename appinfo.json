@@ -1,0 +1,17 @@
+{
+  "uuid": "bc5c3e92-9b11-417a-b8c7-01a8bc479476",
+  "shortName": "PebFile",
+  "longName": "PebFile",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
